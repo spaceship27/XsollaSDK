@@ -12,6 +12,12 @@ Unofficial Xsolla SDK for Godot using HTTPRequest
 $XsollaSDK.initialize();
 ```
 
+### Create token
+
+```gdscript
+$XsollaSDK.create_token(merchant_id);
+```
+
 ### In-Game Store
 
 ```gdscript
