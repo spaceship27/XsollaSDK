@@ -14,8 +14,10 @@ $XsollaSDK.initialize();
 
 ### Create token
 
+`Coming Soon`
+
 ```gdscript
-$XsollaSDK.create_token(merchant_id);
+$XsollaSDK.create_token(merchant_id, project_id, user_id, user_email)
 ```
 
 ### In-Game Store
