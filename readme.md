@@ -2,6 +2,9 @@
 
 Unofficial Xsolla SDK for Godot using `HTTPRequest`
 
+> [!Note]
+> This addon is not completed yet
+
 [Visit the Wiki](https://github.com/godot279/xsolla_sdk/wiki)
 
 ### Get Started
