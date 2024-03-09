@@ -2,6 +2,8 @@
 
 Unofficial Xsolla SDK for Godot using `HTTPRequest`
 
+Version  `1.0.5`
+
 > [!Note]
 > This addon is not completed yet
 
