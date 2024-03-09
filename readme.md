@@ -15,8 +15,6 @@ Version  `1.0.5`
 > [!Note]
 > This addon is not completed yet
 
-[Visit the Wiki](https://github.com/godot279/xsolla_sdk/wiki)
-
 ### Get Started
 
 1. Add the `XsollaSDK` node to your scene tree
