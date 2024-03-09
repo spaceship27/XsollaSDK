@@ -1,5 +1,10 @@
 # Xsolla SDK
 
+> [!Warning]
+> This unofficial SDK is not maintained by Xsolla
+> 
+> Xsolla is in no way associated with this project
+
 Unofficial Xsolla SDK for Godot using `HTTPRequest`
 
 Version  `1.0.5`
