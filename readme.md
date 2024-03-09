@@ -4,6 +4,9 @@ Unofficial Xsolla SDK for Godot using `HTTPRequest`
 
 Version  `1.0.5`
 
+> [!Caution]
+> This addon works with Godot 4.2 or higher
+
 > [!Note]
 > This addon is not completed yet
 
