@@ -7,7 +7,7 @@
 
 Xsolla SDK for Godot using `HTTPRequest`
 
-Version  `1.0.6`
+Version  `1.0.7`
 
 > [!Caution]
 > This addon works with Godot 4.2 or higher
